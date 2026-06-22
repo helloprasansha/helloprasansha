@@ -64,20 +64,7 @@ const prasansha = {
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prasanshabh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanshabh&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" />
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=prasanshabh&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
-</div>
-
----
 
 ## 🌟 My Learning Journey
 
