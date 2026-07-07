@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:D97706,100:F59E0B&height=140&section=header&text=Prasansha%20Bhattarai&fontSize=36&fontColor=fff&fontAlignY=55&desc=Front%20End%20Developer%20%7C%20Nepal&descAlignY=80&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B82F6&height=160&section=header&text=Prasansha%20Bhattarai&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Front%20End%20Developer%20%7C%20Nepal&descAlignY=58&descSize=16" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-prasanshabh-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prasanshabh)
-[![Location](https://img.shields.io/badge/Based%20in-Nepal-D97706?style=flat-square)](https://github.com/prasanshabh)
-[![Status](https://img.shields.io/badge/Currently-Learning%20JavaScript-059669?style=flat-square)](https://github.com/prasanshabh)
+[![Location](https://img.shields.io/badge/Based%20in-Nepal-1D4ED8?style=flat-square)](https://github.com/prasanshabh)
+[![Status](https://img.shields.io/badge/Currently-Learning%20JavaScript-0F766E?style=flat-square)](https://github.com/prasanshabh)
 
 </div>
 
@@ -58,8 +58,8 @@ const prasansha = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-prasanshabh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prasanshabh)
 
-<sub>Profile views: <img src="https://komarev.com/ghpvc/?username=prasanshabh&label=&color=D97706&style=flat-square" alt="Profile Views" valign="middle"/></sub>
+<sub>Profile views: <img src="https://komarev.com/ghpvc/?username=prasanshabh&label=&color=1D4ED8&style=flat-square" alt="Profile Views" valign="middle"/></sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:D97706,100:F59E0B&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B82F6&height=120&section=footer" />
 
 </div>
