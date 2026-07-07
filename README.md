@@ -1,112 +1,64 @@
 <div align="center">
 
-<!-- Header Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prasansha%20Bhattarai&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Turning%20ideas%20into%20code%2C%20one%20line%20at%20a%20time%20%E2%9C%A8&descAlignY=55&descSize=18" />
+# Prasansha Bhattarai
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&width=440&lines=Hello%2C+World!+%F0%9F%91%8B;Learning+JavaScript+%F0%9F%9A%80;Building+cool+things+%F0%9F%94%A5;Always+curious%2C+always+learning+%F0%9F%8C%B1)](https://git.io/typing-svg)
+Front-end developer based in Nepal, focused on JavaScript and the web platform.
 
-<br/>
-
-<!-- About Me Section -->
-<img src="https://img.shields.io/badge/Based%20in-Nepal%20🇳🇵-blue?style=for-the-badge&color=7C3AED" />
-&nbsp;
-<img src="https://img.shields.io/badge/Status-Learning%20JS%20Daily-brightgreen?style=for-the-badge&color=059669" />
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20to-Collaborating-orange?style=for-the-badge&color=D97706" />
+[![GitHub](https://img.shields.io/badge/GitHub-prasanshabh-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prasanshabh)
 
 </div>
 
 ---
 
-## 🌸 About Me
+## About
 
-```javascript
+I'm currently building a solid foundation in JavaScript — from core language fundamentals through the DOM and modern ES6+ features — with the goal of building clean, well-structured interfaces for the web.
+
+\```javascript
 const prasansha = {
   name: "Prasansha Bhattarai",
-  location: "Nepal 🇳🇵",
-  currentFocus: "JavaScript",
+  location: "Nepal",
+  focus: "JavaScript",
   learning: ["JavaScript fundamentals", "DOM manipulation", "ES6+ features"],
-  goal: "Build beautiful things for the web",
-  funFact: "I debug with console.log and I'm not ashamed 😄"
+  goal: "Build well-crafted, accessible interfaces for the web",
 };
-```
+\```
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech stack
 
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+| Category | Tools |
+|---|---|
+| Languages | HTML5, CSS3, JavaScript |
+| Tools | Git, GitHub, VS Code |
 
 ---
 
-## 📚 Currently Learning
-
-<div align="center">
+## Currently learning
 
 | Topic | Status |
-|-------|--------|
-| JavaScript Basics | 🔥 In Progress |
-| DOM Manipulation | 📖 Exploring |
-| ES6+ Features | 🌱 Just Started |
-| Functions & Scope | ✅ Getting There |
-
-</div>
+|---|---|
+| JavaScript fundamentals | In progress |
+| DOM manipulation | Exploring |
+| ES6+ features | Just started |
+| Functions and scope | Solid grasp |
 
 ---
 
+## Learning timeline
 
-
-## 🌟 My Learning Journey
-
-```
-2024  ───────────────────────────────────────────►
-       │
-       ├── 🌱 Started with HTML & CSS
-       │
-       ├── 🎨 Built my first web page
-       │
-       ├── ⚡ Discovered JavaScript
-       │
-       └── 🚀 Currently here — leveling up every day!
-```
+- **HTML & CSS** — built the foundation with semantic markup and styling
+- **First web page** — put the basics into practice
+- **JavaScript** — moved into logic, interactivity, and the DOM
+- **Now** — deepening JavaScript fundamentals and modern syntax
 
 ---
 
-## 💡 A Quote I Live By
+## Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-prasanshabh-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prasanshabh)
 
 <div align="center">
-
-> *"Every expert was once a beginner. Keep going."* 🌸
-
-</div>
-
----
-
-## 📬 Connect with Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-prasanshabh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prasanshabh)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=prasanshabh&label=Profile%20Views&color=7C3AED&style=flat" alt="Profile Views" />
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
-
+<sub>Profile views: <img src="https://komarev.com/ghpvc/?username=prasanshabh&label=&color=grey&style=flat-square" alt="Profile Views" valign="middle"/></sub>
 </div>
