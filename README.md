@@ -52,14 +52,7 @@ const prasansha = {
 | 02 | Discovered JavaScript and started learning the fundamentals |
 | 03 | Currently deepening JavaScript knowledge and modern syntax |
 
-## 🧠 Fun fact
 
-🐛 I don't fear bugs anymore. We've made peace, and most days, they win.
-
-☕ My code runs better after coffee. So does my patience.
----
-
-## 🌐 Connect with me
 
 ---
 
