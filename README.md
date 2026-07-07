@@ -1,18 +1,16 @@
 <div align="center">
 
-# Prasansha Bhattarai
-
-Front-end developer based in Nepal, focused on JavaScript and the web platform.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:D97706,100:F59E0B&height=140&section=header&text=Prasansha%20Bhattarai&fontSize=36&fontColor=fff&fontAlignY=55&desc=Front%20End%20Developer%20%7C%20Nepal&descAlignY=80&descSize=16" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-prasanshabh-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prasanshabh)
+[![Location](https://img.shields.io/badge/Based%20in-Nepal-D97706?style=flat-square)](https://github.com/prasanshabh)
+[![Status](https://img.shields.io/badge/Currently-Learning%20JavaScript-059669?style=flat-square)](https://github.com/prasanshabh)
 
 </div>
 
----
-
 ## About
 
-I'm currently building a solid foundation in JavaScript — from core language fundamentals through the DOM and modern ES6+ features — with the goal of building clean, well-structured interfaces for the web.
+I'm building a solid foundation in JavaScript, moving from core language fundamentals through DOM manipulation into modern ES6+ features. My goal is to build clean, well structured interfaces for the web.
 
 \```javascript
 const prasansha = {
@@ -20,20 +18,22 @@ const prasansha = {
   location: "Nepal",
   focus: "JavaScript",
   learning: ["JavaScript fundamentals", "DOM manipulation", "ES6+ features"],
-  goal: "Build well-crafted, accessible interfaces for the web",
+  goal: "Build well crafted, accessible interfaces for the web",
 };
 \```
 
----
-
 ## Tech stack
 
-| Category | Tools |
-|---|---|
-| Languages | HTML5, CSS3, JavaScript |
-| Tools | Git, GitHub, VS Code |
+<div align="center">
 
----
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ## Currently learning
 
@@ -44,21 +44,22 @@ const prasansha = {
 | ES6+ features | Just started |
 | Functions and scope | Solid grasp |
 
----
+## Learning journey
 
-## Learning timeline
-
-- **HTML & CSS** — built the foundation with semantic markup and styling
-- **First web page** — put the basics into practice
-- **JavaScript** — moved into logic, interactivity, and the DOM
-- **Now** — deepening JavaScript fundamentals and modern syntax
-
----
+| Stage | Milestone |
+|---|---|
+| 01 | Learned HTML and CSS, built a first web page |
+| 02 | Discovered JavaScript and started learning the fundamentals |
+| 03 | Currently deepening JavaScript knowledge and modern syntax |
 
 ## Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-prasanshabh-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prasanshabh)
-
 <div align="center">
-<sub>Profile views: <img src="https://komarev.com/ghpvc/?username=prasanshabh&label=&color=grey&style=flat-square" alt="Profile Views" valign="middle"/></sub>
+
+[![GitHub](https://img.shields.io/badge/GitHub-prasanshabh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prasanshabh)
+
+<sub>Profile views: <img src="https://komarev.com/ghpvc/?username=prasanshabh&label=&color=D97706&style=flat-square" alt="Profile Views" valign="middle"/></sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:D97706,100:F59E0B&height=100&section=footer" />
+
 </div>
