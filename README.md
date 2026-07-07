@@ -54,10 +54,9 @@ const prasansha = {
 
 ## 🧠 Fun fact
 
----
+🐛 I don't fear bugs anymore. We've made peace, and most days, they win.
 
-🚀 I have spent hours fixing one Next.js bug, and still enjoy the process 😄
-
+☕ My code runs better after coffee. So does my patience.
 ---
 
 ## 🌐 Connect with me
