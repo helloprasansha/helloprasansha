@@ -52,13 +52,35 @@ const prasansha = {
 | 02 | Discovered JavaScript and started learning the fundamentals |
 | 03 | Currently deepening JavaScript knowledge and modern syntax |
 
-## Connect
+## 🧠 Fun fact
+
+---
+
+🚀 I have spent hours fixing one Next.js bug, and still enjoy the process 😄
+
+---
+
+## 🌐 Connect with me
+
+---
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-prasanshabh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prasanshabh)
+<a href="https://github.com/prasanshabh"><img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Gmail" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+💡 *"Code. Learn. Build. Repeat."*
 
 <sub>Profile views: <img src="https://komarev.com/ghpvc/?username=prasanshabh&label=&color=1D4ED8&style=flat-square" alt="Profile Views" valign="middle"/></sub>
+
+✨ Thanks for visiting my profile ✨
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B82F6&height=120&section=footer" />
 
