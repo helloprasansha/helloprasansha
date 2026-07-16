@@ -10,17 +10,7 @@
 
 ## About
 
-I'm building a solid foundation in JavaScript, moving from core language fundamentals through DOM manipulation into modern ES6+ features. My goal is to build clean, well structured interfaces for the web.
-
-\```javascript
-const prasansha = {
-  name: "Prasansha Bhattarai",
-  location: "Nepal",
-  focus: "JavaScript",
-  learning: ["JavaScript fundamentals", "DOM manipulation", "ES6+ features"],
-  goal: "Build well crafted, accessible interfaces for the web",
-};
-\```
+I enjoy turning ideas into functional web applications with a focus on clean code, performance, and user experience. Every project is an opportunity to learn, improve, and build something meaningful.
 
 ## Tech stack
 
